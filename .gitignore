@@ -1,0 +1,60 @@
+# Xcode
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local build artifacts
+build/
+
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Claude Code / AI agent files
+.claude/
+CLAUDE.md
+skills.md
+tasks/
+
+# Release artifacts
+release/
+*.dmg
+*.pkg
+*.sha256
+*.zip
+
+# Archives & export
+*.xcarchive
+
+# Provisioning & signing
+*.mobileprovision
+*.provisionprofile
+
+# Logs & crash reports
+*.log
+*.crash
+
+# Environment & secrets
+.env
+.env.*
+*.pem
+*.p12
+*.key
+
+# Internal docs (not for public repo)
+docs/appstore/
+
+# Duplicate/exported icon assets
+BoBoNotes/BoBoNotes_macOS_icons_with_icns/
+BoBoNotes/Assets.xcassets/Icon.iconset/
+BoBoNotes/Assets.xcassets/AppIcon.appiconset/AppIconConcept.md
