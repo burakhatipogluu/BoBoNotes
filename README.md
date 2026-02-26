@@ -105,19 +105,19 @@ Select the **BoBoNotes** scheme and press `Cmd+R` to build and run.
 ## Screenshots
 
 ### Dark Theme — Swift Editor + Function List
-![Dark Theme](screenshots/01-dark-swift-function-list.png)
+![Dark Theme](https://github.com/burakhatipogluu/BoBoNotes/releases/download/v1.0.0/01-dark-swift-function-list.png)
 
 ### Search Results — Find Across Workspace
-![Search Results](screenshots/02-dark-sql-search-results.png)
+![Search Results](https://github.com/burakhatipogluu/BoBoNotes/releases/download/v1.0.0/02-dark-sql-search-results.png)
 
 ### Compare Notes — Side-by-Side Diff
-![Diff View](screenshots/03-light-yaml-diff-compare.png)
+![Diff View](https://github.com/burakhatipogluu/BoBoNotes/releases/download/v1.0.0/03-light-yaml-diff-compare.png)
 
 ### Light Theme — Minimap + Function List
-![Light Theme](screenshots/04-light-swift-minimap.png)
+![Light Theme](https://github.com/burakhatipogluu/BoBoNotes/releases/download/v1.0.0/04-light-swift-minimap.png)
 
 ### Find & Replace — Regex, Match Case, Folder Search
-![Find Replace](screenshots/05-dark-find-replace.png)
+![Find Replace](https://github.com/burakhatipogluu/BoBoNotes/releases/download/v1.0.0/05-dark-find-replace.png)
 
 ## Keyboard Shortcuts
 
