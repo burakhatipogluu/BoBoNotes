@@ -80,9 +80,10 @@ BoBoNotes is a native macOS text editor designed for everyday writing, notes, co
 
 ## Installation
 
-### Homebrew (coming soon)
+### Homebrew
 
 ```bash
+brew tap burakhatipogluu/tap
 brew install --cask bobonotes
 ```
 
