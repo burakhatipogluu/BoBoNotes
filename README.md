@@ -87,9 +87,9 @@ brew tap burakhatipogluu/tap
 brew install --cask bobonotes
 ```
 
-### App Store (coming soon)
+### App Store
 
-Available on the Mac App Store.
+[![Download on the Mac App Store](https://developer.apple.com/assets/elements/badges/download-on-the-mac-app-store.svg)](https://apps.apple.com/app/bobonotes/id6759711201)
 
 ### Building from Source
 
